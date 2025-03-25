@@ -1,3 +1,4 @@
+# 프로그래머스 레벨 3: 네트워크
 def solution(n, computers):
     # 연결 완료한 리스트는 여기다 만들기
     complete_graph = []
