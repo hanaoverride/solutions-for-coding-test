@@ -26,7 +26,7 @@ while queue:
         print(dim)
         break
     # 제출된 코드에서 개선: edge case 처리
-    if dim >= 4:
+    if dim > 4:
         continue
     i = 1
     while i*i<=remaining:
